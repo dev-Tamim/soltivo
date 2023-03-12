@@ -1,0 +1,562 @@
+@media (max-width: 575.98px) { 
+.email a {
+    font-size: 14px !important;
+  }
+  
+  .dropdown {
+    margin-right: 14px !important;
+  }
+  
+  .dropdown h4 {
+    font-size: 14px !important;
+  }
+  
+  .email a i {
+    padding-right: 3px !important;
+  }
+  
+  .header_icon {
+    padding-right: 4px !important;
+  }
+  
+  .header_icon a i {
+    padding-left: 2px !important;
+  }
+  
+  .header_button a {
+    font-size: 14px !important;
+    padding: 15px 8px !important;
+  }
+  
+
+.phone h4 {
+    font-size: 14px !important;
+  }
+  
+  .phone h3 {
+    font-size: 14px !important;
+  }
+  
+  .time h4 {
+    font-size: 14px !important;
+  }
+  
+  .time h3 {
+    font-size: 14px !important;
+  }
+  
+  .time i {
+    width: 30px !important;
+    height: 30px !important;
+    line-height: 30px !important;
+  }
+  .phone i {
+    width: 30px !important;
+    height: 30px !important;
+    line-height: 30px !important;
+  }
+  
+  .time {
+    padding-left: 35px !important;
+  }
+  .phone {
+    padding-left: 35px !important;
+  }
+  
+  .phone {
+    margin-right: 7px !important;
+  }
+  
+
+
+#banner h1 {
+    font-size: 54px !important ;
+  }
+  
+  #banner a {
+    font-size: 14px !important;
+  }
+#banner {
+    padding: 100px 0 !important;
+  }
+  .work_main{
+    position: relative;
+    height: 30% !important;
+    width: 50% !important;
+}
+.work_image{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    text-align: center !important;
+}
+
+.work_image {
+    text-align: center !important;
+  }
+  
+  
+  #work {
+    padding-top: 252px !important;
+  }
+  
+  .work_image {
+    right: 25% !important;
+    width: 50% !important;
+  }
+  
+  
+    .work_main {
+      height: 100% !important;
+      width: 100% !important;
+    }
+  
+  
+  
+  .work_image img {
+    width: 100% !important;
+  }
+   
+
+
+.work_text {
+    margin-top: 30px !important;
+  }
+  
+  
+  .about_item h3 {
+    font-size: 18px !important;
+    padding: 10px 0 !important;
+  }
+  
+  .about_item p {
+    font-size: 14px !important;
+  }
+  
+  .work_text h2 {
+    font-size: 40px !important;
+    line-height: 40px !important;
+  }
+  
+  .work_text p {
+    padding-top: 14px !important;
+    font-size: 14px !important;
+    line-height: 22px !important; 
+  }
+  
+  .founder .f_text h3 {
+    font-size: 18px !important;
+  }
+  
+  .founder {
+    padding-top: 20px !important;
+  }
+
+.card_over_text h3 {
+     font-size: 11px !important;
+  }
+  
+
+
+#call h2 {
+    font-size: 40px !important;
+  }
+  
+  #call {
+    padding: 50px 0 !important;
+  }
+  
+  .call_button a:first-child {
+    margin-bottom: 20px !important;
+  }
+  
+  .call_button a {
+    padding: 10px 29px !important;
+  }
+
+.call_button > a:nth-child(2) {
+    padding: 10px 33px !important;
+  }
+
+.request_text {
+    padding-top: 30px !important;
+  }
+  .request_text h5 {
+    padding-bottom: 0 !important;
+  }
+  
+  .request_text h3 {
+    font-size: 40px !important;
+    padding-bottom: 15px !important;
+  } 
+.footer_logo .button i {
+  font-size: 19px !important;
+}
+
+.footer_logo .button {
+  padding: 13px 24px 13px 10px !important;
+  margin-bottom: 20px;
+}
+
+.footer_logo a h4 {
+  padding-bottom: 0px !important;
+}
+
+.footer_logo a h5 {
+  font-size: 16px !important;
+}
+
+.footer_logo p {
+  padding: 41px 0 3px 0 !important;
+}
+
+.footer_form form label {
+  padding-left: 13px !important;
+  padding-right: 0px !important;
+}
+
+.footer_form form {
+  padding: 10px 0 !important;
+}
+}
+
+@media (min-width:576px) and (max-width: 767.98px) { 
+ 
+
+.header_icon a i {
+  padding-left: 9px!important;
+}
+
+.header_icon {
+  padding-right: 9px!important;
+}
+
+#banner h1 {
+  font-size: 50px!important;
+}
+
+.work_text h2 {
+  font-size: 50px!important;
+}
+
+#call h2 {
+  font-size: 50px!important;
+  padding-top: 10px!important;
+  line-height: 38px!important;
+}
+
+#call {
+  padding: 64px 0!important;
+}
+
+.call_button a:first-child {
+  margin-right: 0px!important;
+}
+
+.request_text h3 {
+  font-size: 50px!important;
+  padding-bottom: 20px!important;
+}
+
+.request_text h5 {
+  padding-bottom: 5px!important;
+  padding-top: 20px!important;
+}
+
+.footer_logo .button {
+  padding: 10px 12px 10px 14px!important;
+  margin-bottom: 20px!important;
+}
+
+.footer_logo a h4 {
+  padding-bottom: 0px!important;
+}
+
+.footer_logo a h5 {
+  font-size: 17px!important;
+}
+
+.footer_logo .button i {
+  top: 27%!important;
+  right: 5%!important;
+  font-size: 26px!important;
+  z-index: 0!important;
+}
+
+.footer_form form label {
+  padding-left: 18px !important;
+}
+
+
+.call_button > a:nth-child(2) {
+  margin-top: 15px!important;
+  padding: 23px 50px!important;
+}
+.work_main{
+  position: relative;
+  height: 30% !important;
+  width: 50% !important;
+}
+.work_image{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  text-align: center !important;
+}
+
+.work_image {
+  text-align: center !important;
+}
+
+
+#work {
+  padding-top: 252px !important;
+}
+
+.work_image {
+  right: 0% !important;
+  width:100% !important;
+}
+
+
+  .work_main {
+    height:100% !important;
+    width: 100% !important;
+  }
+
+
+
+.work_image img {
+  width: 50% !important;
+  height: 100% !important;
+}
+.work_text h5 {
+  padding-bottom: 0px !important;
+  margin-top: 33px !important;
+}
+ }
+
+
+
+
+
+
+
+
+
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+.header_icon {
+  padding-right: 15px !important;
+}
+
+.work_text h2 {
+  font-size: 40px !important;
+  line-height: 43px !important;
+}
+
+.card_over_text h3 {
+  font-size: 13px !important;
+}
+
+.card_over_text h4 {
+  font-size: 12px !important;
+}
+
+#call h2 {
+  font-size: 32px!important;
+  padding-top: 0px!important;
+}
+
+#call h4 {
+  font-size: 14px!important;
+}
+
+#call {
+  padding: 34px 0!important;
+}
+
+.call_button a:first-child {
+  margin-right: 0px!important;
+}
+
+.call_button a {
+  padding: 15px 30px!important;
+}
+
+.request_text h5 {
+  padding-bottom: 0px!important;
+}
+
+.request_text h3 {
+  font-size: 40px!important;
+  padding-bottom: 20px!important;
+}
+
+.request_text input {
+  padding: 13px 30px !important;
+}
+
+.request_text textarea {
+  padding: 19px 29px!important;
+}
+
+.footer_logo p {
+  font-size: 14px!important;
+  line-height: 18px!important;
+}
+
+footer ul li p {
+  line-height: 28px!important;
+}
+
+.footer_logo .button {
+  padding: 10px 15px 7px 10px!important;
+}
+
+.footer_logo a h5 {
+  font-size: 16px!important;
+}
+
+.footer_logo .button i {
+  top: 38%!important;
+  font-size: 27px!important;
+}
+
+.footer_icon i {
+  padding: 0 6px!important;
+}
+
+.footer_form a {
+  padding: 23px 26px!important;
+  font-size: 14px!important;
+}
+
+.footer_form form label {
+  padding-left: 7px!important;
+  padding-right: 0px!important;
+}
+
+.footer_form form input {
+  font-size: 11px !important;
+}
+
+
+.work_image img {
+  width: 100% !important;
+}
+  }
+
+
+  @media (min-width: 992px) and (max-width: 1199.98px){
+
+.about_item h3 {
+  font-size: 18px!important;
+  padding: 8px 0!important;
+}
+
+.about_item p {
+  font-size: 15px!important;
+  line-height: 24px!important;
+}
+
+.work_text h2 {
+  font-size: 50px!important;
+}
+
+#call h2 {
+  font-size: 44px!important;
+}
+
+#call {
+  padding: 52px 0!important;
+}
+
+.call_button a:first-child {
+  margin-right: 8px!important;
+}
+
+.call_button a {
+  padding: 23px 19px!important;
+}
+
+.request_text h3 {
+  font-size: 50px!important;
+  padding-bottom: 25px!important;
+}
+
+.footer_logo .button {
+  padding: 10px 47px 10px 20px!important;
+}
+
+.footer_logo a h4 {
+  padding-bottom: 3px!important;
+}
+
+.footer_logo a h5 {
+  font-size: 19px!important;
+}
+
+.footer_logo .button i {
+  font-size: 30px!important;
+}
+
+.footer_icon i {
+  padding: 0 4px!important;
+}
+
+.footer_form form label {
+  padding-left: 23px !important;
+  padding-right: 0px !important;
+}
+
+.footer_form form {
+  padding: 20px 4px !important;
+}
+
+.footer_form form input {
+  font-size: 14px !important;
+}
+
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+ 
+
+#call h2 {
+  font-size: 50px !important;
+}
+
+.call_button a:first-child {
+  margin-right: 10px !important;
+}
+
+.call_button a {
+  padding: 23px 33px !important;
+}
+
+.footer_icon i {
+  padding: 0 6px !important;
+}
+
+.footer_logo .button {
+  padding: 10px 44px 10px 17px !important;
+}
+
+.footer_logo a h5 {
+  font-size: 17px!important;
+}
+
+.footer_logo a h4 {
+  padding-bottom: 2px!important;
+}
+
+.footer_logo .button i {
+  top: 51%!important;
+  font-size: 37px!important;
+}
+ 
+ }
+
